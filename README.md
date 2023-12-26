@@ -33,7 +33,6 @@ clone_matrix: Creates a copy of a matrix.
 elemenate_fraction: Rounds numbers to two decimals or to an integer.
 Additional Observations:
 
-The code includes comments in French, indicating its authors' language preference.
 It uses a variable big_M to track whether the Big M method is needed for handling certain constraint types.
 It handles degenerate cases by tracking a degenere flag.
 It prompts for user input to pause between iterations, making it interactive for demonstration purposes.
